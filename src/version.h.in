@@ -1,0 +1,4 @@
+#ifndef FLE_VERSION_H
+#define FLE_VERSION_H
+#define FLE_VERSION "@PROJECT_VERSION@"
+#endif
